@@ -32,7 +32,7 @@ Developed a machine learning model to predict loan approval status based on appl
 ## Tools & Technologies
 - Languages/Libraries: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Imbalanced-learn
 - Techniques: EDA, Outlier Treatment, SMOTE, One-Hot Encoding, Feature Scaling, Logistic Regression, KNN
-- Environment: Jupyter Notebook / Google Colab
+- Environment: Google Colab
 
 ## Results & Insights
 - Achieved high classification accuracy with Logistic Regression and optimized KNN.
